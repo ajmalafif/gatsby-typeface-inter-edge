@@ -21,7 +21,7 @@
     "styled-components": "^4.0.3",
     "tachyons-components": "^1.0.1",
     "tachyons-sass": "^4.9.3",
-    "typeface-inter": "^3.1.0"
+    "typeface-inter": "github:ajmalafif/typeface-inter#v3.2"
   },
   "keywords": [
     "gatsby"
